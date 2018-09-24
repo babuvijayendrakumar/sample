@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    margin-top: 20px;
+}
+body
+{
+margin:0;
+padding:0;
+
+}
+.small{
+    
+    margin: 30px 30px 10px;
+    
+}
+table{
+    margin: 30px;
+}
+ul{
+    margin: 20px;
+}
+.per{
+    margin: 40px;
+}
+.pla{
+    margin: 30px;
+}
+hr{
+    height: 1px;
+    width: 80%;
+    float: left;
+    
+}
